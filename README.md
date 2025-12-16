@@ -16,6 +16,7 @@
 
 **
 Setup the Service for each Services:**
+
 1. Auth Service (Port 8076)
    
        cd auth-service
