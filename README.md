@@ -69,6 +69,7 @@ Setup the Service for each Services:**
 **
 Running the Application:
 Start Services in Order**
+
 Terminal 1: Auth Service
 
        cd auth-service
